@@ -1,0 +1,82 @@
+
+/*Цвета*/
+:root{
+    --color4 :#A77B50 ;
+    --color5: #D8AE85;
+    --color3 : ;
+    /* изначальный цвет #FFFFF0 , #FFF5EE #e0cfb1*/
+    /* мне нравиться #d8b18a  */
+    --color2 : #D8AE85 ;
+    --color1 : #FFF5EE;
+}
+.itd-img{
+    max-width: 250px;
+    
+    border: solid var(--color1) 1px;
+}
+.hoy{
+    background-color: #FFF5EE;
+}
+.hat{
+    background-color: var(--color2);
+}
+.separator{
+    /* color: var(--color1); */
+    color: black;
+}
+.text-sty{
+    font-family: monospace;
+    font-style: italic;
+}
+.itd-img1{
+    height: 200px;
+    
+    width: 300px;
+}
+.whatsapp{
+    background-color: mediumspringgreen;
+    border: solid green 1px;
+    text-decoration: none;
+    color: honeydew;
+    border-radius: 10%; 
+    padding: 5 px;
+}
+.button {
+    font: bold 15px Arial;
+    text-decoration: none;
+    background-color: mediumspringgreen;
+    color: #333333;
+    padding: 4px 12px 4px 12px;
+    border-top: 1px solid mediumspringgreen;
+    border-right: 1px solid mediumspringgreen;
+    border-bottom: 1px solid mediumspringgreen;
+    border-left: 1px solid mediumspringgreen;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+  }
+  .button1 {
+    color: whitesmoke;
+    font: bold 15px Arial;
+    text-decoration: none;
+    background-color: rgb(245, 29, 29);
+    color: #333333;
+    padding: 4px 12px 4px 12px;
+    border-top: 1px solid rgb(250, 0, 0);
+    border-right: 1px solid rgb(250, 0, 0);
+    border-bottom: 1px solid rgb(250, 0, 0);
+    border-left: 1px solid rgb(250, 0, 0);
+    /* border-radius: 25%; */
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+  }
+  .header1 {
+      color:white;
+      font-size: 16px;
+      font-family: unset;
+      font-style: oblique;
+      font-variant: small-caps;
+  }
+
+  
